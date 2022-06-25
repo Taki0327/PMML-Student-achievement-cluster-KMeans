@@ -1,4 +1,4 @@
-# PMML-KMeans
+# PMML-Student-achievement-cluster-KMeans
 使用 PMML 跨平台调用基于 scikit-learn 框架制作的 KMeans 模型示例
 
 
